@@ -56,6 +56,46 @@
                 <td>Cursando</td>
               </tr>
             </table>
+            <h3>Agregar Estudios</h3>
+                <form name="Agregar Estudios">
+                  <p>Año:
+                    <select name="year">
+                      <option>2018</option>
+                      <option>2017</option>
+                      <option>2016</option>
+                      <option>2015</option>
+                      <option>2014</option>
+                      <option>2013</option>
+                      <option>2012</option>
+                      <option>2011</option>
+                      <option>2010</option>
+                      <option>2009</option>
+                      <option>2008</option>
+                      <option>2007</option>
+                      <option>2006</option>
+                      <option>2005</option>
+                      <option>2004</option>
+                      <option>2003</option>
+                      <option>2002</option>
+                      <option>2001</option>
+                      <option>2000</option>
+                    </select>
+                  </p>
+                    <br>
+                  <label for="text">Institución:</label>
+                    <input type="text"></br>
+                    <br>
+                  <label for="text">Lugar:</label>
+                    <textarea name="area_texto" rows="3" cols="40"></textarea><br>
+                    <br>
+                  <label for="¿Culminó?">¿Culminó?</label>
+                  <input type="radio" name="alternativa"> Sí
+                  <input type="radio" name="alternativa"> No
+                    <br>
+                  <p>
+                    <input type="submit" value="Enviar">
+                  </p>
+                  </form>
     <article>
     <footer>
       <p>© Derechos Reservados</p>
