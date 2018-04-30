@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <meta name="author" description="pandrévag">
+    <meta name="description" content="Hoja de Vida Digital de Pablo Vargas García">
+    <title>Hoja de Vida Digital</title>
+  </head>
+  <body>
+    <header>
+      <svg>
+        <image xlink:href="img/logo.svg" width="150px"></image>
+      </svg>
+        <h1>Hoja de Vida Digital</h1>
+    </header>
+    <section>
+      <h2>Pablo Andrés Vargas García</h2>
+        <h3><em>Agosto 09 de 1989, Calama, Chile.</em></h3>
+    </section>
+    <nav>
+      <p>
+        <a href="index.html">Inicio</a> |
+        <a href="educacion.html">Educación</a> |
+        <a href="experiencia.html">Experiencia</a> |
+      </p>
+    </nav>
+      <article>
+        <h2>Información Personal</h2>
+          <img src="img/Foto.png" alt="foto pandrévag" width="200 px">
+            <h3>Perfil</h3>
+              <p>
+                Hace 12 años nace mi inquietud por el diseño y la fotografía, comencé mi aprendizaje de manera autodidacta y con el tiempo fui especializándome hasta conseguir un título como Técnico de Nivel Superior en Diseño Publicitario Digital.
+                Desde entonces no he dejado de buscar y aprender nuevas técnicas para el tratamiento de imágenes y esa inquietud es la que me ha llevado a adquirir nuevas herramientas y competencias que como diseñador van desde preparar un archivo para imprenta hasta intervenir en estudio para tomar fotografías que acompañen a estos soportes y hoy creando piezas como realizador audiovisual aspirando a contar con un nuevo conocimiento a través de este curso de desarrollo web.
+              </p>
+              <h4>Idiomas:</h4>
+                <ul>
+                  <li>Comprendo Inglés</li>
+                  <li>Hablo y Escribo en Español</li>
+                </ul>
+      </article>
+    <footer>
+      <p>© Derechos Reservados</p>
+        <p>
+          <a href="mailto:pandrevag@gmail.com">Correo Electrónico</a> |
+          <a href="tel:+56984574589">Teléfono</a> |
+          <a href="https://www.instagram.com/pavlog_/" target="_blank">RSS</a> |
+        </p>
+    </footer>
+  </body>
+</html>
