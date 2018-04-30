@@ -25,7 +25,7 @@
         <a href="experiencia.html">Experiencia</a> |
       </p>
     </nav>
-    <article>
+      <article>
         <h2>Educación</h2>
           <table border="1", cellpadding="3", cellspacing="0">
             <thead>
@@ -56,8 +56,8 @@
                 <td>Cursando</td>
               </tr>
             </table>
-            <h3>Agregar Estudios</h3>
-                <form name="Agregar Estudios">
+              <h3>Agregar Estudios</h3>
+                <form autocomplete="on" name="Agregar Estudios">
                   <p>Año:
                     <select name="year">
                       <option>2018</option>
@@ -83,20 +83,20 @@
                   </p>
                     <br>
                   <label for="text">Institución:</label>
-                    <input type="text"></br>
+                    <input type="text" required></br>
                     <br>
                   <label for="text">Lugar:</label>
-                    <textarea name="area_texto" rows="3" cols="40"></textarea><br>
+                    <textarea name="area_texto" rows="3" cols="40" required></textarea><br>
                     <br>
                   <label for="¿Culminó?">¿Culminó?</label>
-                  <input type="radio" name="alternativa"> Sí
-                  <input type="radio" name="alternativa"> No
+                  <input type="radio" name="alternativa" required> Sí
+                  <input type="radio" name="alternativa" required> No
                     <br>
                   <p>
                     <input type="submit" value="Enviar">
                   </p>
                   </form>
-    <article>
+      </article>
     <footer>
       <p>© Derechos Reservados</p>
         <p>
