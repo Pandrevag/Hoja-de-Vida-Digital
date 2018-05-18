@@ -10,7 +10,7 @@
   <body>
     <header>
       <svg>
-        <image xlink:href="img/logo.svg" width="150px"></image>
+        <image xlink:href="img/logo.svg" width="100px"></image>
       </svg>
         <h1>Hoja de Vida Digital</h1>
     </header>
@@ -33,9 +33,8 @@
                 Hace 12 años nace mi inquietud por el diseño y la fotografía, comencé mi aprendizaje de manera autodidacta y con el tiempo fui especializándome hasta conseguir un título como Técnico de Nivel Superior en Diseño Publicitario Digital.
                 Desde entonces no he dejado de buscar y aprender nuevas técnicas para el tratamiento de imágenes y esa inquietud es la que me ha llevado a adquirir nuevas herramientas y competencias que como diseñador van desde preparar un archivo para imprenta hasta intervenir en estudio para tomar fotografías que acompañen a estos soportes y hoy creando piezas como realizador audiovisual aspirando a contar con un nuevo conocimiento a través de este curso de desarrollo web.
               </p>
-              <h4>Idiomas:</h4>
+              <h4>Idioma:</h4>
                 <ul>
-                  <li>Comprendo Inglés</li>
                   <li>Hablo y Escribo en Español</li>
                 </ul>
       </article>
