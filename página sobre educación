@@ -10,7 +10,7 @@
   <body>
     <header>
       <svg>
-        <image xlink:href="img/logo.svg" width="150px"></image>
+        <image xlink:href="img/logo.svg" width="100px"></image>
       </svg>
         <h1>Hoja de Vida Digital</h1>
     </header>
