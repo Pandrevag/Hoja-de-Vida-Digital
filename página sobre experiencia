@@ -27,7 +27,17 @@
     </nav>
       <article>
         <h2>Experiencia</h2>
-          <h3>Nombre del Video</h3>
+          <h3>habilidades e intereses profesionales</h3>
+            <video controls width="100%">
+              <source src="video/video.mp4" type="video/mp4">
+                <source src="video.ogv" type="video/ogg">
+                Tu navegador no soporta ninguno de los formatos de Video.
+              </video>
+          <h3>en mi tiempo libre</h3>
+          <audio src="audio/audio.m4a" controls autoplay></audio>
+            <source src="audio.mp3" type="audio/mpeg">
+              Tu navegador no soporta ninguno de los formatos de Audio.
+      </article>
     <footer>
       <p>© Derechos Reservados</p>
         <p>
