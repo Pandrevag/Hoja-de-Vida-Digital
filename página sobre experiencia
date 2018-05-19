@@ -34,9 +34,10 @@
                 Tu navegador no soporta ninguno de los formatos de Video.
               </video>
           <h3>en mi tiempo libre</h3>
-          <audio src="audio/audio.m4a" controls autoplay></audio>
-            <source src="audio.mp3" type="audio/mpeg">
-              Tu navegador no soporta ninguno de los formatos de Audio.
+            <audio src="audio/audio.m4a" controls autoplay>
+                <source src="audio.mp3" type="audio/mpeg">
+                Tu navegador no soporta ninguno de los formatos de Audio.
+            </audio>
       </article>
     <footer>
       <p>© Derechos Reservados</p>
